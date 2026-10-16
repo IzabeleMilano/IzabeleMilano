@@ -1,15 +1,15 @@
 <h1 align="center">👋 Olá, sou a Izabele Milano</h1>
 
 <p align="center">
-  <b>Profissional entusiasta de tecnologia</b>, dedicada à automação de testes e à excelência na qualidade de software.<br>
-  Atualmente a aprofundar conhecimentos em desenvolvimento web front-end, procuro sempre explorar novas ideias, partilhar conhecimento e criar soluções práticas e eficazes.
+  <b>Profissional de tecnologia</b>, dedicada à automação de testes e à excelência na qualidade de software.<br>
+  Procuro sempre explorar novas ideias, partilhar conhecimento e criar soluções práticas e eficazes.
 </p>
 
 ---
 
 ### 🚀 Sobre Mim
 
-- 🎯 **Foco atual:** Automação de Testes, Qualidade de Software e Desenvolvimento Front-end.
+- 🎯 **Foco atual:** Automação de Testes, Qualidade de Software.
 - 📫 **Como contactar-me:** [izamilano@gmail.com](mailto:izamilano@gmail.com)
 - 📍 **Localização:** Londrina, PR - Brasil
 
@@ -38,7 +38,6 @@
 
   <!-- Testes & Qualidade -->
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
 
