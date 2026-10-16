@@ -9,7 +9,7 @@
 
 ### 🚀 Sobre Mim
 
-- 🎯 **Foco atual:** Automação de Testes, Qualidade de Software.
+- 🎯 **Foco atual:** Automação de Testes e Qualidade de Software.
 - 📫 **Como contactar-me:** [izamilano@gmail.com](mailto:izamilano@gmail.com)
 - 📍 **Localização:** Londrina, PR - Brasil
 
